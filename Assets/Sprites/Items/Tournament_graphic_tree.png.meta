@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: e9d09973b44ef164e83495f957405926
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: top_line
+    21300002: Brush_basic
+    21300004: Connector_1
+    21300006: Connector_2
+    21300008: R16
+    21300010: QTR
+    21300012: SEMI
+    21300014: Cup
+    21300016: Brush_wins
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: top_line
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1874
+        width: 1986
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brush_basic
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1609
+        width: 493
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Connector_1
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1789
+        width: 595
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Connector_2
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1645
+        width: 1168
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 808
+        width: 706
+        height: 662
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: QTR
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 468
+        width: 375
+        height: 1005
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SEMI
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 68
+        width: 375
+        height: 1405
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cup
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 385
+        width: 427
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brush_wins
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 125
+        width: 493
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

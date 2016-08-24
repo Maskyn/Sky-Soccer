@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ada48583c3781934181d23e03e1468db
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainCam: {fileID: 2000000, guid: 3bb4dfa9009ad5d478fc1ae793d45cf3, type: 2}
+  - bottomWall: {instanceID: 0}
+  - leftWall: {instanceID: 0}
+  - rightWall: {instanceID: 0}
+  - topWall: {instanceID: 0}
+  - bottomDeath: {instanceID: 0}
+  - leftDeath: {instanceID: 0}
+  - rightDeath: {instanceID: 0}
+  - topDeath: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

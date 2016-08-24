@@ -1,0 +1,122 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class Flags : MonoBehaviour
+{
+
+		public Sprite 
+				ALGERIA,
+				ARGENTINA,
+				AUSTRALIA,
+				BELGIUM,
+				BOSNIA_AND_HERZEGOVINA,
+				BRAZIL,
+				CAMEROON,
+				CHILE,
+				CHINA,
+				COLOMBIA,
+				COSTA_RICA,
+				COTE_D_IVOIRE,
+				CROATIA,
+				FRANCE,
+				ECUADOR,
+				ENGLAND,
+				GERMANY,
+				GHANA,
+				GREECE,
+				HONDURAS,
+				IRAN,
+				ITALY,
+				JAPAN,
+				KOREA_REPUBLIC,
+				MEXICO,
+				MOLDOVA,
+				NETHERLAND,
+				NIGERIA,
+				PORTUGAL,
+				RUSSIA,
+				SPAIN,
+				SWEDEN,
+				SWITERLAND,
+				TURKEY,
+				USA,
+				URUGUAY;
+
+		public static Sprite 
+				_ALGERIA,
+				_ARGENTINA,
+				_AUSTRALIA,
+				_BELGIUM,
+				_BOSNIA_AND_HERZEGOVINA,
+				_BRAZIL,
+				_CAMEROON,
+				_CHILE,
+				_CHINA,
+				_COLOMBIA,
+				_COSTA_RICA,
+				_COTE_D_IVOIRE,
+				_CROATIA,
+				_FRANCE,
+				_ECUADOR,
+				_ENGLAND,
+				_GERMANY,
+				_GHANA,
+				_GREECE,
+				_HONDURAS,
+				_IRAN,
+				_ITALY,
+				_JAPAN,
+				_KOREA_REPUBLIC,
+				_MEXICO,
+				_MOLDOVA,
+				_NETHERLAND,
+				_NIGERIA,
+				_PORTUGAL,
+				_RUSSIA,
+				_SPAIN,
+				_SWEDEN,
+				_SWITERLAND,
+				_TURKEY,
+				_USA,
+				_URUGUAY;
+
+		void Start ()
+		{
+				_ALGERIA = ALGERIA;
+				_ARGENTINA = ARGENTINA;
+				_AUSTRALIA = AUSTRALIA;
+				_BELGIUM = BELGIUM;
+				_BOSNIA_AND_HERZEGOVINA = BOSNIA_AND_HERZEGOVINA;
+				_BRAZIL = BRAZIL;
+				_CAMEROON = CAMEROON;
+				_CHILE = CHILE;
+				_CHINA = CHINA;
+				_COLOMBIA = COLOMBIA;
+				_COSTA_RICA = COSTA_RICA;
+				_COTE_D_IVOIRE = COTE_D_IVOIRE;
+				_CROATIA = CROATIA;
+				_FRANCE = FRANCE;
+				_ECUADOR = ECUADOR;
+				_ENGLAND = ENGLAND;
+				_GERMANY = GERMANY;
+				_GHANA = GHANA;
+				_GREECE = GREECE;
+				_HONDURAS = HONDURAS;
+				_IRAN = IRAN;
+				_ITALY = ITALY;
+				_JAPAN = JAPAN;
+				_KOREA_REPUBLIC = KOREA_REPUBLIC;
+				_MEXICO = MEXICO;
+				_MOLDOVA = MOLDOVA;
+				_NETHERLAND = NETHERLAND;
+				_NIGERIA = NIGERIA;
+				_PORTUGAL = PORTUGAL;
+				_RUSSIA = RUSSIA;
+				_SPAIN = SPAIN;
+				_SWEDEN = SWEDEN;
+				_SWITERLAND = SWITERLAND;
+				_TURKEY = TURKEY;
+				_USA = USA;
+				_URUGUAY = URUGUAY;
+		}
+}

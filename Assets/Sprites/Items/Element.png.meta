@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 4766e4b21a6a1534fa2ec6122b71a9b5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fuck the sistem
+    21300002: Element_1
+    21300004: star
+    21300006: Element_3
+    21300008: Element_4
+    21300010: Element_5
+    21300012: Element_6
+    21300014: Element_7
+    21300016: Element_8
+    21300018: Element_9
+    21300020: Element_10
+    21300022: Element_11
+    21300024: Element_12
+    21300026: Element_13
+    21300028: Element_14
+    21300030: Element_15
+    21300032: Element_16
+    21300034: Element_17
+    21300036: Element_18
+    21300038: life_bar_background
+    21300040: Element_20
+    21300042: life_icon
+    21300044: life_content
+    21300046: Element_23
+    21300048: Element_24
+    21300050: Element_25
+    21300052: Element_26
+    21300054: Element_27
+    21300056: Element_28
+    21300058: Element_29
+    21300060: Element_30
+    21300062: Element_31
+    21300064: Sfondo_porco
+    21300066: Element_33
+    21300068: Element_34
+    21300070: Element_35
+    21300072: Element_36
+    21300074: Element_37
+    21300076: Element_38
+    21300078: Element_39
+    21300080: Element_40
+    21300082: Element_41
+    21300084: Element_42
+    21300086: Element_43
+    21300088: Element_44
+    21300090: Element_45
+    21300092: Element_46
+    21300094: Element_47
+    21300096: Element_48
+    21300098: Element_49
+    21300100: Element_50
+    21300102: Element_51
+    21300104: time_background
+    21300106: Element_53
+    21300108: Element_54
+    21300110: Element_55
+    21300112: Element_56
+    21300114: Element_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fuck the sistem
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1889
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1895
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1896
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1888
+        width: 95
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1891
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_5
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1901
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_6
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1907
+        width: 35
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1649
+        width: 344
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1741
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1741
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_10
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1741
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_11
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1686
+        width: 136
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_12
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1686
+        width: 136
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_13
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1683
+        width: 136
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_14
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1683
+        width: 136
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1637
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_16
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1637
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1637
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1467
+        width: 299
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: life_bar_background
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1471
+        width: 465
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_20
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1472
+        width: 299
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: life_icon
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1463
+        width: 81
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: life_content
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1516
+        width: 353
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1006
+        width: 39
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1330
+        width: 576
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_25
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1282
+        width: 973
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1162
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1162
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1162
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1162
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_30
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1162
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_31
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1162
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sfondo_porco
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1097
+        width: 310
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_33
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1097
+        width: 309
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_34
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1133
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_35
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1133
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_36
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1133
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1036
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1036
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_39
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1043
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_40
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 944
+        width: 310
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_41
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 944
+        width: 309
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_42
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1063
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_43
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1063
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_44
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1063
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_45
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1063
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_46
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1063
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_47
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1063
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 626
+        width: 725
+        height: 287
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_49
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 626
+        width: 725
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_50
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 745
+        width: 174
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_51
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 674
+        width: 141
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: time_background
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 334
+        width: 725
+        height: 252
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_53
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 393
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_54
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 394
+        width: 456
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_55
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 55
+        width: 571
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_56
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 55
+        width: 571
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Element_57
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 55
+        width: 571
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

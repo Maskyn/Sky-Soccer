@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 3702d1d897eeddd46b7fef94f22b6b1e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: asdf
+    21300002: Allahuak
+    21300004: Window_2
+    21300006: Team_selection
+    21300008: pause
+    21300010: Pallino
+    21300012: Window_6
+    21300014: Window_7
+    21300016: Window_8
+    21300018: barra
+    21300020: Window_10
+    21300022: Window_11
+    21300024: Game_ended
+    21300026: Window_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: asdf
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1423
+        width: 685
+        height: 554
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Allahuak
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1135
+        width: 837
+        height: 864
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 919
+        width: 457
+        height: 472
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Team_selection
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 999
+        width: 453
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pause
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 59
+        width: 609
+        height: 1044
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pallino
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 810
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 810
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 810
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 706
+        width: 235
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 672
+        width: 499
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 617
+        width: 235
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 583
+        width: 499
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game_ended
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 570
+        height: 475
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window_13
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 52
+        width: 570
+        height: 475
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

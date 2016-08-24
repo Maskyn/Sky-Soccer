@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 4cfb3d9f27307e14a8095af0025f7025
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: play_green
+    21300002: play_yellow
+    21300004: Tropheis_green
+    21300006: Tropheis_yellow
+    21300008: Replay_green
+    21300010: Replay_yellow
+    21300012: Green_background
+    21300014: Invite_friend_green
+    21300016: Invite_friend_yellow
+    21300018: previous_green
+    21300020: previous_yellow
+    21300022: Pause_green
+    21300024: Pause_yellow
+    21300026: Options_green
+    21300028: Options_yellow
+    21300030: Yellow_background
+    21300032: Invites_list_green
+    21300034: Invites_list_yellow
+    21300036: Button_18
+    21300038: Button_19
+    21300040: green_next
+    21300042: yellow_next
+    21300044: Close_green
+    21300046: Close_yellow
+    21300048: Redo_green
+    21300050: Redo_yellow
+    21300052: Multiplayer_local_green
+    21300054: Multiplayer_local_yellow
+    21300056: Button_28
+    21300058: Button_29
+    21300060: back_green
+    21300062: back_yellow
+    21300064: Confirm_green
+    21300066: Confirm_yellow
+    21300068: Button_34
+    21300070: Button_35
+    21300072: Multiplayer_online_green
+    21300074: Multiplayer_online_yellow
+    21300076: List_green
+    21300078: List_yellow
+    21300080: Button_40
+    21300082: Button_41
+    21300084: Achievements_green
+    21300086: Achievements_yellow
+    21300088: Button_44
+    21300090: Button_45
+    21300092: Button_46
+    21300094: Button_47
+    21300096: Bluetooth_green
+    21300098: Bluetooth_yellow
+    21300100: Button_50
+    21300102: Button_51
+    21300104: Join_green
+    21300106: Join_yellow
+    21300108: Button_54
+    21300110: Button_55
+    21300112: Home_green
+    21300114: home_yellow
+    21300116: Button_58
+    21300118: Button_59
+    21300120: Button_60
+    21300122: Button_61
+    21300124: Button_62
+    21300126: Button_63
+    21300128: Info_green
+    21300130: Info_yellow
+    21300132: Button_66
+    21300134: Button_67
+    21300136: Sounds_green
+    21300138: Sounds_yellow
+    21300140: Button_70
+    21300142: Button_71
+    21300144: Single_player_green
+    21300146: Single_player_yellow
+    21300148: plus_green
+    21300150: plus_yellow
+    21300152: Button_76
+    21300154: Button_77
+    21300156: Button_78
+    21300158: Button_79
+    21300160: Multiplayer_green
+    21300162: Multiplayer_yellow
+    21300164: Button_82
+    21300166: Button_83
+    21300168: Button_84
+    21300170: Button_85
+    21300172: button_square_bg
+    21300174: Button_87
+    21300176: Button_88
+    21300178: Button_89
+    21300180: Button_90
+    21300182: Button_91
+    21300184: Button_92
+    21300186: Button_93
+    21300188: Close_red
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: play_green
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1843
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play_yellow
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1843
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tropheis_green
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1843
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tropheis_yellow
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1843
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Replay_green
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1843
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Replay_yellow
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1843
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Green_background
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1841
+        width: 354
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Invite_friend_green
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1843
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Invite_friend_yellow
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1843
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: previous_green
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1667
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: previous_yellow
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1667
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pause_green
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1667
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pause_yellow
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1667
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Options_green
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1667
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Options_yellow
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1667
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Yellow_background
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1665
+        width: 354
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Invites_list_green
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1667
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Invites_list_yellow
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1667
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1487
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1487
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: green_next
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1487
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: yellow_next
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1487
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Close_green
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1487
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Close_yellow
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1487
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redo_green
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1487
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Redo_yellow
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1487
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Multiplayer_local_green
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1497
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Multiplayer_local_yellow
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1497
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1303
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1303
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_green
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1303
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back_yellow
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1303
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Confirm_green
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1303
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Confirm_yellow
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1303
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_34
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1303
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_35
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1303
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Multiplayer_online_green
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1304
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Multiplayer_online_yellow
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1304
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: List_green
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1126
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: List_yellow
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1126
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_40
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1126
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_41
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1126
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Achievements_green
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1126
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Achievements_yellow
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1126
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_44
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1126
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_45
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1126
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 945
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 945
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bluetooth_green
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 945
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bluetooth_yellow
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 945
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_50
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 945
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_51
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 945
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Join_green
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 945
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Join_yellow
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 945
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 760
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 760
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Home_green
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 760
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home_yellow
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 760
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_58
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 760
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_59
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 760
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_60
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 760
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_61
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 760
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_62
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 581
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 581
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Info_green
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 581
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Info_yellow
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 581
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_66
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 581
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_67
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 581
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sounds_green
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 581
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sounds_yellow
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 581
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 402
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 402
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Single_player_green
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 402
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Single_player_yellow
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 402
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plus_green
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 402
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plus_yellow
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 402
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_76
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 402
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_77
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 402
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_78
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 216
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 216
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Multiplayer_green
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 216
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Multiplayer_yellow
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 216
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_82
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 216
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_83
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 216
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_84
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 216
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_85
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 216
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button_square_bg
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_87
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_88
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 36
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_89
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 36
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_90
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 36
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_91
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 36
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_92
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 36
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_93
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 36
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Close_red
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1046
+        width: 216
+        height: 223
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
